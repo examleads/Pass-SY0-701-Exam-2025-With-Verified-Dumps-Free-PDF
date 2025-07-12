@@ -1,6 +1,10 @@
-![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/examleads/repo-name?style=social)
-![Last Updated](https://img.shields.io/github/last-commit/examleads/repo-name)
+![PDF Size](https://img.shields.io/badge/PDF-Preview-blue?style=flat-square&logo=adobeacrobatreader&logoColor=yellow)
+![Exam Code](https://img.shields.io/badge/SY0--701-Microsoft%20Identity-orange?style=flat-square&logo=microsoft)
+![Updated](https://img.shields.io/badge/Updated-2025-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-informational?style=flat-square&logoColor=skyblue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=examleads.ai102)
+![Last Updated](https://img.shields.io/badge/Updated-July%202025-brightgreen)
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 #  Pass CompTIA Security+ (SY0-701) – 2025 Study Guide + Dumps   
 **Crack the latest Security+ SY0-701 exam in your first attempt** with our complete and verified study material.
