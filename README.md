@@ -1,6 +1,6 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Stars](https://img.shields.io/github/stars/yourusername/repo-name?style=social)
-![Last Updated](https://img.shields.io/github/last-commit/yourusername/repo-name)
+![Stars](https://img.shields.io/github/stars/examleads/repo-name?style=social)
+![Last Updated](https://img.shields.io/github/last-commit/examleads/repo-name)
 
 #  Pass CompTIA Security+ (SY0-701) – 2025 Study Guide + Dumps   
 **Crack the latest Security+ SY0-701 exam in your first attempt** with our complete and verified study material.
