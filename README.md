@@ -16,7 +16,7 @@ We got you covered!
 👉 Download the full updated **[SY0-701 Exam Dumps PDF with 100% exam-relevant content](https://www.realexamcollection.com/comptia/sy0-701-dumps.html)**  
 
 ##  Sample Question Preview:
-[![Download SY0-701 PDF](images/preview.png)](./Sample_SY0-701_Exam_Questions.pdf)
+[![Download SY0-701 PDF](Sample_SY0-701_Exam_Questions.pdf)](./Sample_SY0-701_Exam_Questions.pdf)
 
 
 ##  Why SY0-701 in 2025?
