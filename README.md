@@ -45,7 +45,7 @@ Includes:
 
 - [ SY0-701 Practice Tests](https://www.realexamcollection.com/comptia/sy0-701-dumps.html)  
 - [ Study Plan for 30 Days](https://www.realexamcollection.com/)  
-- [ 20% Discount + 100% Refund Policy](https://www.realexamcollection.com/refund-policy.html)
+- [ 20% Discount + 100% Refund Policy](https://www.realexamcollection.com/comptia/sy0-701-dumps.html)
 
 ---
 
